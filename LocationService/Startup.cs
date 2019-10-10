@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using location_service.Services;
+using LocationService.Services;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -12,7 +12,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 
-namespace location_service
+namespace LocationService
 {
     public class Startup
     {
@@ -27,7 +27,7 @@ namespace location_service
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
-            services.AddSingleton<ILocationService, LocationService>();
+            services.AddSingleton<ILocationService, LocationDataService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

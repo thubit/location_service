@@ -1,11 +1,11 @@
 using System.Collections.Generic;
 using System.Threading.Tasks;
-using location_service.Models;
-using location_service.Services;
+using LocationService.Models;
+using LocationService.Services;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 
-namespace location_service.Controllers
+namespace LocationService.Controllers
 {
     [ApiController]
     [Route("api/location")]

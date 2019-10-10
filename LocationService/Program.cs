@@ -9,7 +9,7 @@ using Microsoft.Extensions.Logging;
 using Serilog;
 using Serilog.Events;
 
-namespace location_service
+namespace LocationService
 {
     public class Program
     {

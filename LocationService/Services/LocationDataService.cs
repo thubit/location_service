@@ -2,17 +2,17 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Text.Json;
-using location_service.Models;
+using LocationService.Models;
 using Microsoft.Extensions.Logging;
 
-namespace location_service.Services
+namespace LocationService.Services
 {
-    public class LocationService : ILocationService
+    public class LocationDataService : ILocationService
     {
-        readonly ILogger<LocationService> logger;
+        readonly ILogger<LocationDataService> logger;
         private List<LocationBucket> locationBuckets;
 
-        public LocationService(ILogger<LocationService> logger)
+        public LocationDataService(ILogger<LocationDataService> logger)
         {
             this.logger = logger;
             LoadLocationBucketData();

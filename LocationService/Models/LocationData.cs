@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 using System.Text.Json.Serialization;
 
-namespace location_service.Models
+namespace LocationService.Models
 {
     public class LocationData
     {

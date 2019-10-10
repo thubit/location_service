@@ -1,7 +1,7 @@
 using System.Collections.Generic;
-using location_service.Models;
+using LocationService.Models;
 
-namespace location_service.Services
+namespace LocationService.Services
 {
     public interface ILocationService
     {
