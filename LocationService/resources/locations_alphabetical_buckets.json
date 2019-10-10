@@ -1,0 +1,2010 @@
+﻿[
+  {
+    "Id": "a",
+    "Locations": [
+      {
+        "Id": 0,
+        "Plaatsnaam": "Aa en Hunze",
+        "Alias": null,
+        "Gemeentenaam": "Aa en Hunze",
+        "Provincienaam": "Drenthe"
+      },
+      {
+        "Id": 10,
+        "Plaatsnaam": "Aalsmeer",
+        "Alias": null,
+        "Gemeentenaam": "Aalsmeer",
+        "Provincienaam": "Noord-Holland"
+      },
+      {
+        "Id": 12,
+        "Plaatsnaam": "Aalst",
+        "Alias": null,
+        "Gemeentenaam": "Buren",
+        "Provincienaam": "Gelderland"
+      },
+      {
+        "Id": 32,
+        "Plaatsnaam": "Aast",
+        "Alias": null,
+        "Gemeentenaam": "Horst aan de Maas",
+        "Provincienaam": "Limburg"
+      },
+      {
+        "Id": 38,
+        "Plaatsnaam": "Abbenbroek",
+        "Alias": null,
+        "Gemeentenaam": "Bernisse",
+        "Provincienaam": "Zuid-Holland"
+      },
+      {
+        "Id": 46,
+        "Plaatsnaam": "Abtswoude",
+        "Alias": null,
+        "Gemeentenaam": "Delft",
+        "Provincienaam": "Zuid-Holland"
+      },
+      {
+        "Id": 64,
+        "Plaatsnaam": "Achtersluispolder",
+        "Alias": null,
+        "Gemeentenaam": "Zaanstad",
+        "Provincienaam": "Noord-Holland"
+      },
+      {
+        "Id": 92,
+        "Plaatsnaam": "Afferden",
+        "Alias": null,
+        "Gemeentenaam": "Druten",
+        "Provincienaam": "Gelderland"
+      },
+      {
+        "Id": 106,
+        "Plaatsnaam": "Alblasserdam",
+        "Alias": null,
+        "Gemeentenaam": "Alblasserdam",
+        "Provincienaam": "Zuid-Holland"
+      },
+      {
+        "Id": 126,
+        "Plaatsnaam": "Almkerk",
+        "Alias": null,
+        "Gemeentenaam": "Woudrichem",
+        "Provincienaam": "Noord-Brabant"
+      },
+      {
+        "Id": 148,
+        "Plaatsnaam": "Ameland",
+        "Alias": null,
+        "Gemeentenaam": "Ameland",
+        "Provincienaam": "Friesland"
+      },
+      {
+        "Id": 153,
+        "Plaatsnaam": "Amersfoort",
+        "Alias": null,
+        "Gemeentenaam": "Amersfoort",
+        "Provincienaam": "Utrecht"
+      },
+      {
+        "Id": 186,
+        "Plaatsnaam": "Anna Jacobapolder",
+        "Alias": null,
+        "Gemeentenaam": "Tholen",
+        "Provincienaam": "Zeeland"
+      },
+      {
+        "Id": 194,
+        "Plaatsnaam": "Anreep",
+        "Alias": null,
+        "Gemeentenaam": "Assen",
+        "Provincienaam": "Drenthe"
+      },
+      {
+        "Id": 227,
+        "Plaatsnaam": "Asperen",
+        "Alias": null,
+        "Gemeentenaam": "Lingewaal",
+        "Provincienaam": "Gelderland"
+      },
+      {
+        "Id": 234,
+        "Plaatsnaam": "Assum",
+        "Alias": null,
+        "Gemeentenaam": "Uitgeest",
+        "Provincienaam": "Noord-Holland"
+      },
+      {
+        "Id": 250,
+        "Plaatsnaam": "Axwijk",
+        "Alias": null,
+        "Gemeentenaam": "Zeevang",
+        "Provincienaam": "Noord-Holland"
+      }
+    ]
+  },
+  {
+    "Id": "b",
+    "Locations": [
+      {
+        "Id": 284,
+        "Plaatsnaam": "Baburen",
+        "Alias": null,
+        "Gemeentenaam": "W\u00FBnseradiel",
+        "Provincienaam": "Friesland"
+      },
+      {
+        "Id": 285,
+        "Plaatsnaam": "Babyloni\u00EBnbroek",
+        "Alias": null,
+        "Gemeentenaam": "Aalburg",
+        "Provincienaam": "Noord-Brabant"
+      },
+      {
+        "Id": 292,
+        "Plaatsnaam": "Bakelsedijk",
+        "Alias": null,
+        "Gemeentenaam": "Deurne",
+        "Provincienaam": "Noord-Brabant"
+      },
+      {
+        "Id": 320,
+        "Plaatsnaam": "Bankert",
+        "Alias": null,
+        "Gemeentenaam": "Gemert-Bakel",
+        "Provincienaam": "Noord-Brabant"
+      },
+      {
+        "Id": 328,
+        "Plaatsnaam": "Bargen",
+        "Alias": null,
+        "Gemeentenaam": "Texel",
+        "Provincienaam": "Noord-Holland"
+      },
+      {
+        "Id": 352,
+        "Plaatsnaam": "Batterij",
+        "Alias": null,
+        "Gemeentenaam": "Terneuzen",
+        "Provincienaam": "Zeeland"
+      },
+      {
+        "Id": 374,
+        "Plaatsnaam": "Beemdkant",
+        "Alias": null,
+        "Gemeentenaam": "Laarbeek",
+        "Provincienaam": "Noord-Brabant"
+      },
+      {
+        "Id": 375,
+        "Plaatsnaam": "Beemster",
+        "Alias": null,
+        "Gemeentenaam": "Beemster",
+        "Provincienaam": "Noord-Holland"
+      },
+      {
+        "Id": 440,
+        "Plaatsnaam": "Benningbroek",
+        "Alias": null,
+        "Gemeentenaam": "Medemblik",
+        "Provincienaam": "Noord-Holland"
+      },
+      {
+        "Id": 460,
+        "Plaatsnaam": "Bergambacht",
+        "Alias": null,
+        "Gemeentenaam": "Bergambacht",
+        "Provincienaam": "Zuid-Holland"
+      },
+      {
+        "Id": 478,
+        "Plaatsnaam": "Bergkwartier",
+        "Alias": null,
+        "Gemeentenaam": "Amersfoort",
+        "Provincienaam": "Utrecht"
+      },
+      {
+        "Id": 486,
+        "Plaatsnaam": "Berkdijk",
+        "Alias": null,
+        "Gemeentenaam": "Tilburg",
+        "Provincienaam": "Noord-Brabant"
+      },
+      {
+        "Id": 500,
+        "Plaatsnaam": "Berlicum",
+        "Alias": null,
+        "Gemeentenaam": "Sint-Michielsgestel",
+        "Provincienaam": "Noord-Brabant"
+      },
+      {
+        "Id": 516,
+        "Plaatsnaam": "Betterwird",
+        "Alias": null,
+        "Gemeentenaam": "Dongeradeel",
+        "Provincienaam": "Friesland"
+      },
+      {
+        "Id": 558,
+        "Plaatsnaam": "Binnen-Moerdijk",
+        "Alias": null,
+        "Gemeentenaam": "Moerdijk",
+        "Provincienaam": "Noord-Brabant"
+      },
+      {
+        "Id": 576,
+        "Plaatsnaam": "Blankenham",
+        "Alias": null,
+        "Gemeentenaam": "Steenwijkerland",
+        "Provincienaam": "Overijssel"
+      },
+      {
+        "Id": 666,
+        "Plaatsnaam": "Bolshuizen",
+        "Alias": null,
+        "Gemeentenaam": "Winsum",
+        "Provincienaam": "Groningen"
+      },
+      {
+        "Id": 696,
+        "Plaatsnaam": "Borgercompagnie (ged.)",
+        "Alias": null,
+        "Gemeentenaam": "Veendam",
+        "Provincienaam": "Groningen"
+      },
+      {
+        "Id": 720,
+        "Plaatsnaam": "Boschheurne",
+        "Alias": null,
+        "Gemeentenaam": "Lochem",
+        "Provincienaam": "Gelderland"
+      },
+      {
+        "Id": 742,
+        "Plaatsnaam": "Boswinkel",
+        "Alias": null,
+        "Gemeentenaam": "Enschede",
+        "Provincienaam": "Overijssel"
+      },
+      {
+        "Id": 789,
+        "Plaatsnaam": "Brabander",
+        "Alias": null,
+        "Gemeentenaam": "Venray",
+        "Provincienaam": "Limburg"
+      },
+      {
+        "Id": 792,
+        "Plaatsnaam": "Brakel",
+        "Alias": null,
+        "Gemeentenaam": "Zaltbommel",
+        "Provincienaam": "Gelderland"
+      },
+      {
+        "Id": 803,
+        "Plaatsnaam": "Brandt",
+        "Alias": null,
+        "Gemeentenaam": "Maasgouw",
+        "Provincienaam": "Limburg"
+      },
+      {
+        "Id": 814,
+        "Plaatsnaam": "Breedschot",
+        "Alias": null,
+        "Gemeentenaam": "Zundert",
+        "Provincienaam": "Noord-Brabant"
+      },
+      {
+        "Id": 844,
+        "Plaatsnaam": "Britswert",
+        "Alias": null,
+        "Gemeentenaam": "Littenseradiel",
+        "Provincienaam": "Friesland"
+      },
+      {
+        "Id": 872,
+        "Plaatsnaam": "Broekhoven",
+        "Alias": null,
+        "Gemeentenaam": "Tilburg",
+        "Provincienaam": "Noord-Brabant"
+      },
+      {
+        "Id": 875,
+        "Plaatsnaam": "Broekhuizen",
+        "Alias": null,
+        "Gemeentenaam": "Meppel",
+        "Provincienaam": "Drenthe"
+      },
+      {
+        "Id": 876,
+        "Plaatsnaam": "Broekhuizen",
+        "Alias": null,
+        "Gemeentenaam": "Dalfsen",
+        "Provincienaam": "Overijssel"
+      },
+      {
+        "Id": 880,
+        "Plaatsnaam": "Broekkant",
+        "Alias": null,
+        "Gemeentenaam": "Laarbeek",
+        "Provincienaam": "Noord-Brabant"
+      },
+      {
+        "Id": 912,
+        "Plaatsnaam": "Bruinehaar",
+        "Alias": null,
+        "Gemeentenaam": "Twenterand",
+        "Provincienaam": "Overijssel"
+      },
+      {
+        "Id": 920,
+        "Plaatsnaam": "Brunsting",
+        "Alias": null,
+        "Gemeentenaam": "Midden-Drenthe",
+        "Provincienaam": "Drenthe"
+      },
+      {
+        "Id": 960,
+        "Plaatsnaam": "Buren",
+        "Alias": null,
+        "Gemeentenaam": "Ameland",
+        "Provincienaam": "Friesland"
+      }
+    ]
+  },
+  {
+    "Id": "c",
+    "Locations": [
+      {
+        "Id": 996,
+        "Plaatsnaam": "Cadzand",
+        "Alias": null,
+        "Gemeentenaam": "Sluis",
+        "Provincienaam": "Zeeland"
+      },
+      {
+        "Id": 1000,
+        "Plaatsnaam": "Californi\u00EB",
+        "Alias": null,
+        "Gemeentenaam": "Horst aan de Maas",
+        "Provincienaam": "Limburg"
+      },
+      {
+        "Id": 1014,
+        "Plaatsnaam": "Castricum",
+        "Alias": null,
+        "Gemeentenaam": "Castricum",
+        "Provincienaam": "Noord-Holland"
+      },
+      {
+        "Id": 1040,
+        "Plaatsnaam": "Cornjum",
+        "Alias": null,
+        "Gemeentenaam": "Leeuwarderadeel",
+        "Provincienaam": "Friesland"
+      }
+    ]
+  },
+  {
+    "Id": "d",
+    "Locations": [
+      {
+        "Id": 1066,
+        "Plaatsnaam": "Daarlerveen",
+        "Alias": null,
+        "Gemeentenaam": "Hellendoorn",
+        "Provincienaam": "Overijssel"
+      },
+      {
+        "Id": 1110,
+        "Plaatsnaam": "Deldeneresch",
+        "Alias": null,
+        "Gemeentenaam": "Hof van Twente",
+        "Provincienaam": "Overijssel"
+      },
+      {
+        "Id": 1225,
+        "Plaatsnaam": "Donkereind",
+        "Alias": null,
+        "Gemeentenaam": "De Ronde Venen",
+        "Provincienaam": "Utrecht"
+      },
+      {
+        "Id": 1247,
+        "Plaatsnaam": "Dorregeest",
+        "Alias": null,
+        "Gemeentenaam": "Uitgeest",
+        "Provincienaam": "Noord-Holland"
+      },
+      {
+        "Id": 1248,
+        "Plaatsnaam": "Dorshout",
+        "Alias": null,
+        "Gemeentenaam": "Veghel",
+        "Provincienaam": "Noord-Brabant"
+      },
+      {
+        "Id": 1296,
+        "Plaatsnaam": "Drogteropslagen",
+        "Alias": null,
+        "Gemeentenaam": "De Wolden",
+        "Provincienaam": "Drenthe"
+      },
+      {
+        "Id": 1297,
+        "Plaatsnaam": "Drongelen",
+        "Alias": null,
+        "Gemeentenaam": "Aalburg",
+        "Provincienaam": "Noord-Brabant"
+      },
+      {
+        "Id": 1304,
+        "Plaatsnaam": "Drouwenermond",
+        "Alias": null,
+        "Gemeentenaam": "Borger-Odoorn",
+        "Provincienaam": "Drenthe"
+      },
+      {
+        "Id": 1320,
+        "Plaatsnaam": "Duivendrecht",
+        "Alias": null,
+        "Gemeentenaam": "Ouder-Amstel",
+        "Provincienaam": "Noord-Holland"
+      },
+      {
+        "Id": 1672,
+        "Plaatsnaam": "De Gaasten",
+        "Alias": "Gaasten, De",
+        "Gemeentenaam": "Smallingerland",
+        "Provincienaam": "Friesland"
+      },
+      {
+        "Id": 1968,
+        "Plaatsnaam": "De Haar",
+        "Alias": "Haar, De",
+        "Gemeentenaam": "Hardenberg",
+        "Provincienaam": "Overijssel"
+      },
+      {
+        "Id": 2585,
+        "Plaatsnaam": "De Hurk",
+        "Alias": "Hurk, De",
+        "Gemeentenaam": "Eindhoven",
+        "Provincienaam": "Noord-Brabant"
+      },
+      {
+        "Id": 3480,
+        "Plaatsnaam": "De Meele",
+        "Alias": "Meele, De",
+        "Gemeentenaam": "Dalfsen",
+        "Provincienaam": "Overijssel"
+      },
+      {
+        "Id": 4461,
+        "Plaatsnaam": "De Plas",
+        "Alias": "Plas, De",
+        "Gemeentenaam": "Kampen",
+        "Provincienaam": "Overijssel"
+      },
+      {
+        "Id": 6048,
+        "Plaatsnaam": "De (ged.) Wilp",
+        "Alias": "Wilp, De (ged.)",
+        "Gemeentenaam": "Marum",
+        "Provincienaam": "Groningen"
+      }
+    ]
+  },
+  {
+    "Id": "e",
+    "Locations": [
+      {
+        "Id": 1376,
+        "Plaatsnaam": "Eemsmond",
+        "Alias": null,
+        "Gemeentenaam": "Eemsmond",
+        "Provincienaam": "Groningen"
+      },
+      {
+        "Id": 1392,
+        "Plaatsnaam": "Eerde",
+        "Alias": null,
+        "Gemeentenaam": "Ommen",
+        "Provincienaam": "Overijssel"
+      },
+      {
+        "Id": 1393,
+        "Plaatsnaam": "Eerde",
+        "Alias": null,
+        "Gemeentenaam": "Veghel",
+        "Provincienaam": "Noord-Brabant"
+      },
+      {
+        "Id": 1408,
+        "Plaatsnaam": "Eexterveen",
+        "Alias": null,
+        "Gemeentenaam": "Aa en Hunze",
+        "Provincienaam": "Drenthe"
+      },
+      {
+        "Id": 1441,
+        "Plaatsnaam": "Eind",
+        "Alias": null,
+        "Gemeentenaam": "Bergeijk",
+        "Provincienaam": "Noord-Brabant"
+      },
+      {
+        "Id": 1522,
+        "Plaatsnaam": "Engelbert",
+        "Alias": null,
+        "Gemeentenaam": "Groningen",
+        "Provincienaam": "Groningen"
+      },
+      {
+        "Id": 1568,
+        "Plaatsnaam": "Etenaken",
+        "Alias": null,
+        "Gemeentenaam": "Gulpen-Wittem",
+        "Provincienaam": "Limburg"
+      },
+      {
+        "Id": 1575,
+        "Plaatsnaam": "Europoort",
+        "Alias": null,
+        "Gemeentenaam": "Rotterdam",
+        "Provincienaam": "Zuid-Holland"
+      },
+      {
+        "Id": 1600,
+        "Plaatsnaam": "Exlo\u00EBrveen",
+        "Alias": null,
+        "Gemeentenaam": "Borger-Odoorn",
+        "Provincienaam": "Drenthe"
+      }
+    ]
+  },
+  {
+    "Id": "f",
+    "Locations": [
+      {
+        "Id": 1612,
+        "Plaatsnaam": "Felland",
+        "Alias": null,
+        "Gemeentenaam": "Haren",
+        "Provincienaam": "Groningen"
+      }
+    ]
+  },
+  {
+    "Id": "g",
+    "Locations": [
+      {
+        "Id": 1685,
+        "Plaatsnaam": "Ganzert",
+        "Alias": null,
+        "Gemeentenaam": "Buren",
+        "Provincienaam": "Gelderland"
+      },
+      {
+        "Id": 1728,
+        "Plaatsnaam": "Geffen",
+        "Alias": null,
+        "Gemeentenaam": "Maasdonk",
+        "Provincienaam": "Noord-Brabant"
+      },
+      {
+        "Id": 1743,
+        "Plaatsnaam": "Gelkenes",
+        "Alias": null,
+        "Gemeentenaam": "Liesveld",
+        "Provincienaam": "Zuid-Holland"
+      },
+      {
+        "Id": 1746,
+        "Plaatsnaam": "Gelselaar",
+        "Alias": null,
+        "Gemeentenaam": "Berkelland",
+        "Provincienaam": "Gelderland"
+      },
+      {
+        "Id": 1764,
+        "Plaatsnaam": "Genooi",
+        "Alias": null,
+        "Gemeentenaam": "Venlo",
+        "Provincienaam": "Limburg"
+      },
+      {
+        "Id": 1799,
+        "Plaatsnaam": "Gilden",
+        "Alias": null,
+        "Gemeentenaam": "Velsen",
+        "Provincienaam": "Noord-Holland"
+      },
+      {
+        "Id": 1900,
+        "Plaatsnaam": "Groeningen",
+        "Alias": null,
+        "Gemeentenaam": "Boxmeer",
+        "Provincienaam": "Noord-Brabant"
+      },
+      {
+        "Id": 1908,
+        "Plaatsnaam": "Groessen",
+        "Alias": null,
+        "Gemeentenaam": "Duiven",
+        "Provincienaam": "Gelderland"
+      },
+      {
+        "Id": 1918,
+        "Plaatsnaam": "Groot-Abeele",
+        "Alias": null,
+        "Gemeentenaam": "Vlissingen",
+        "Provincienaam": "Zeeland"
+      },
+      {
+        "Id": 1927,
+        "Plaatsnaam": "Groote Lindt",
+        "Alias": null,
+        "Gemeentenaam": "Zwijndrecht",
+        "Provincienaam": "Zuid-Holland"
+      }
+    ]
+  },
+  {
+    "Id": "h",
+    "Locations": [
+      {
+        "Id": 1956,
+        "Plaatsnaam": "Haamstede",
+        "Alias": null,
+        "Gemeentenaam": "Schouwen-Duiveland",
+        "Provincienaam": "Zeeland"
+      },
+      {
+        "Id": 1987,
+        "Plaatsnaam": "Haerst",
+        "Alias": null,
+        "Gemeentenaam": "Zwolle",
+        "Provincienaam": "Overijssel"
+      },
+      {
+        "Id": 1988,
+        "Plaatsnaam": "Hagenkamp",
+        "Alias": null,
+        "Gemeentenaam": "Eindhoven",
+        "Provincienaam": "Noord-Brabant"
+      },
+      {
+        "Id": 2035,
+        "Plaatsnaam": "Harculo",
+        "Alias": null,
+        "Gemeentenaam": "Zwolle",
+        "Provincienaam": "Overijssel"
+      },
+      {
+        "Id": 2070,
+        "Plaatsnaam": "Hasselt",
+        "Alias": null,
+        "Gemeentenaam": "Zwartewaterland",
+        "Provincienaam": "Overijssel"
+      },
+      {
+        "Id": 2176,
+        "Plaatsnaam": "Heijenrath",
+        "Alias": null,
+        "Gemeentenaam": "Gulpen-Wittem",
+        "Provincienaam": "Limburg"
+      },
+      {
+        "Id": 2187,
+        "Plaatsnaam": "Heikant",
+        "Alias": null,
+        "Gemeentenaam": "Cranendonck",
+        "Provincienaam": "Noord-Brabant"
+      },
+      {
+        "Id": 2211,
+        "Plaatsnaam": "Heksenberg",
+        "Alias": null,
+        "Gemeentenaam": "Heerlen",
+        "Provincienaam": "Limburg"
+      },
+      {
+        "Id": 2218,
+        "Plaatsnaam": "Hell",
+        "Alias": null,
+        "Gemeentenaam": "Putten",
+        "Provincienaam": "Gelderland"
+      },
+      {
+        "Id": 2276,
+        "Plaatsnaam": "Hesselingen",
+        "Alias": null,
+        "Gemeentenaam": "Meppel",
+        "Provincienaam": "Drenthe"
+      },
+      {
+        "Id": 2288,
+        "Plaatsnaam": "Heuneind",
+        "Alias": null,
+        "Gemeentenaam": "Tilburg",
+        "Provincienaam": "Noord-Brabant"
+      },
+      {
+        "Id": 2330,
+        "Plaatsnaam": "Hilversum",
+        "Alias": null,
+        "Gemeentenaam": "Hilversum",
+        "Provincienaam": "Noord-Holland"
+      },
+      {
+        "Id": 2331,
+        "Plaatsnaam": "Hilversumse Meent",
+        "Alias": null,
+        "Gemeentenaam": "Hilversum",
+        "Provincienaam": "Noord-Holland"
+      },
+      {
+        "Id": 2340,
+        "Plaatsnaam": "Hitzum",
+        "Alias": null,
+        "Gemeentenaam": "Franekeradeel",
+        "Provincienaam": "Friesland"
+      },
+      {
+        "Id": 2361,
+        "Plaatsnaam": "Hoensbroek",
+        "Alias": null,
+        "Gemeentenaam": "Heerlen",
+        "Provincienaam": "Limburg"
+      },
+      {
+        "Id": 2386,
+        "Plaatsnaam": "Hoge Mors",
+        "Alias": null,
+        "Gemeentenaam": "Oegstgeest",
+        "Provincienaam": "Zuid-Holland"
+      },
+      {
+        "Id": 2400,
+        "Plaatsnaam": "Holkerveen",
+        "Alias": null,
+        "Gemeentenaam": "Nijkerk",
+        "Provincienaam": "Gelderland"
+      },
+      {
+        "Id": 2403,
+        "Plaatsnaam": "Hollum",
+        "Alias": null,
+        "Gemeentenaam": "Ameland",
+        "Provincienaam": "Friesland"
+      },
+      {
+        "Id": 2436,
+        "Plaatsnaam": "Hoogblokland",
+        "Alias": null,
+        "Gemeentenaam": "Giessenlanden",
+        "Provincienaam": "Zuid-Holland"
+      },
+      {
+        "Id": 2456,
+        "Plaatsnaam": "Hoogemeeden",
+        "Alias": null,
+        "Gemeentenaam": "Zuidhorn",
+        "Provincienaam": "Groningen"
+      },
+      {
+        "Id": 2480,
+        "Plaatsnaam": "Hoograven",
+        "Alias": null,
+        "Gemeentenaam": "Nieuwegein",
+        "Provincienaam": "Utrecht"
+      },
+      {
+        "Id": 2580,
+        "Plaatsnaam": "H\u00B7ns",
+        "Alias": null,
+        "Gemeentenaam": "Littenseradiel",
+        "Provincienaam": "Friesland"
+      },
+      {
+        "Id": 4850,
+        "Plaatsnaam": "Het Schier",
+        "Alias": "Schier, Het",
+        "Gemeentenaam": "Westerveld",
+        "Provincienaam": "Drenthe"
+      },
+      {
+        "Id": 5560,
+        "Plaatsnaam": "Het Ven",
+        "Alias": "Ven, Het",
+        "Gemeentenaam": "Venlo",
+        "Provincienaam": "Limburg"
+      }
+    ]
+  },
+  {
+    "Id": "i",
+    "Locations": [
+      {
+        "Id": 2616,
+        "Plaatsnaam": "IJzerenbrug",
+        "Alias": null,
+        "Gemeentenaam": "Hellevoetsluis",
+        "Provincienaam": "Zuid-Holland"
+      }
+    ]
+  },
+  {
+    "Id": "j",
+    "Locations": [
+      {
+        "Id": 2645,
+        "Plaatsnaam": "Jet",
+        "Alias": null,
+        "Gemeentenaam": "Littenseradiel",
+        "Provincienaam": "Friesland"
+      },
+      {
+        "Id": 2664,
+        "Plaatsnaam": "Jubbega",
+        "Alias": null,
+        "Gemeentenaam": "Heerenveen",
+        "Provincienaam": "Friesland"
+      }
+    ]
+  },
+  {
+    "Id": "k",
+    "Locations": [
+      {
+        "Id": 2690,
+        "Plaatsnaam": "Kallenkote",
+        "Alias": null,
+        "Gemeentenaam": "Steenwijkerland",
+        "Provincienaam": "Overijssel"
+      },
+      {
+        "Id": 2700,
+        "Plaatsnaam": "Kampen",
+        "Alias": null,
+        "Gemeentenaam": "Hulst",
+        "Provincienaam": "Zeeland"
+      },
+      {
+        "Id": 2725,
+        "Plaatsnaam": "Kats",
+        "Alias": null,
+        "Gemeentenaam": "Noord-Beveland",
+        "Provincienaam": "Zeeland"
+      },
+      {
+        "Id": 2730,
+        "Plaatsnaam": "Katwijk",
+        "Alias": null,
+        "Gemeentenaam": "Katwijk",
+        "Provincienaam": "Zuid-Holland"
+      },
+      {
+        "Id": 2765,
+        "Plaatsnaam": "Kerkelanden",
+        "Alias": null,
+        "Gemeentenaam": "Hilversum",
+        "Provincienaam": "Noord-Holland"
+      },
+      {
+        "Id": 2820,
+        "Plaatsnaam": "Klei",
+        "Alias": null,
+        "Gemeentenaam": "De Marne",
+        "Provincienaam": "Groningen"
+      },
+      {
+        "Id": 2843,
+        "Plaatsnaam": "Klein-Harkstede",
+        "Alias": null,
+        "Gemeentenaam": "Slochteren",
+        "Provincienaam": "Groningen"
+      },
+      {
+        "Id": 2850,
+        "Plaatsnaam": "Kleverskerke",
+        "Alias": null,
+        "Gemeentenaam": "Middelburg",
+        "Provincienaam": "Zeeland"
+      },
+      {
+        "Id": 2870,
+        "Plaatsnaam": "Klundert",
+        "Alias": null,
+        "Gemeentenaam": "Moerdijk",
+        "Provincienaam": "Noord-Brabant"
+      },
+      {
+        "Id": 2900,
+        "Plaatsnaam": "Kollumerland en Nieuwkruisland",
+        "Alias": null,
+        "Gemeentenaam": "Kollumerland en Nieuwkruisland",
+        "Provincienaam": "Friesland"
+      },
+      {
+        "Id": 2904,
+        "Plaatsnaam": "Kommerzijl",
+        "Alias": null,
+        "Gemeentenaam": "Zuidhorn",
+        "Provincienaam": "Groningen"
+      },
+      {
+        "Id": 2967,
+        "Plaatsnaam": "Kraanven",
+        "Alias": null,
+        "Gemeentenaam": "Loon op Zand",
+        "Provincienaam": "Noord-Brabant"
+      },
+      {
+        "Id": 2997,
+        "Plaatsnaam": "Kromme-Elleboog",
+        "Alias": null,
+        "Gemeentenaam": "Oldambt",
+        "Provincienaam": "Groningen"
+      },
+      {
+        "Id": 3002,
+        "Plaatsnaam": "Kronenburg",
+        "Alias": null,
+        "Gemeentenaam": "Amstelveen",
+        "Provincienaam": "Noord-Holland"
+      },
+      {
+        "Id": 3030,
+        "Plaatsnaam": "Kunrade",
+        "Alias": null,
+        "Gemeentenaam": "Voerendaal",
+        "Provincienaam": "Limburg"
+      }
+    ]
+  },
+  {
+    "Id": "l",
+    "Locations": [
+      {
+        "Id": 3100,
+        "Plaatsnaam": "Landgraaf",
+        "Alias": null,
+        "Gemeentenaam": "Landgraaf",
+        "Provincienaam": "Limburg"
+      },
+      {
+        "Id": 3120,
+        "Plaatsnaam": "Langelo",
+        "Alias": null,
+        "Gemeentenaam": "Noordenveld",
+        "Provincienaam": "Drenthe"
+      },
+      {
+        "Id": 3150,
+        "Plaatsnaam": "Lauradorp",
+        "Alias": null,
+        "Gemeentenaam": "Landgraaf",
+        "Provincienaam": "Limburg"
+      },
+      {
+        "Id": 3160,
+        "Plaatsnaam": "Leemhorst",
+        "Alias": null,
+        "Gemeentenaam": "Venlo",
+        "Provincienaam": "Limburg"
+      },
+      {
+        "Id": 3180,
+        "Plaatsnaam": "Legert",
+        "Alias": null,
+        "Gemeentenaam": "Horst aan de Maas",
+        "Provincienaam": "Limburg"
+      },
+      {
+        "Id": 3195,
+        "Plaatsnaam": "Lekkerterp",
+        "Alias": null,
+        "Gemeentenaam": "Boarnsterhim",
+        "Provincienaam": "Friesland"
+      },
+      {
+        "Id": 3200,
+        "Plaatsnaam": "Lemele",
+        "Alias": null,
+        "Gemeentenaam": "Ommen",
+        "Provincienaam": "Overijssel"
+      },
+      {
+        "Id": 3237,
+        "Plaatsnaam": "Libeek",
+        "Alias": null,
+        "Gemeentenaam": "Margraten",
+        "Provincienaam": "Limburg"
+      },
+      {
+        "Id": 3240,
+        "Plaatsnaam": "Lichtenberg",
+        "Alias": null,
+        "Gemeentenaam": "Amersfoort",
+        "Provincienaam": "Utrecht"
+      },
+      {
+        "Id": 3249,
+        "Plaatsnaam": "Lies",
+        "Alias": null,
+        "Gemeentenaam": "Terschelling",
+        "Provincienaam": "Friesland"
+      },
+      {
+        "Id": 3256,
+        "Plaatsnaam": "Lievendaal",
+        "Alias": null,
+        "Gemeentenaam": "Eindhoven",
+        "Provincienaam": "Noord-Brabant"
+      },
+      {
+        "Id": 3310,
+        "Plaatsnaam": "Longerhouw",
+        "Alias": null,
+        "Gemeentenaam": "W\u00FBnseradiel",
+        "Provincienaam": "Friesland"
+      },
+      {
+        "Id": 3364,
+        "Plaatsnaam": "Lutjewijtwerd",
+        "Alias": null,
+        "Gemeentenaam": "Loppersum",
+        "Provincienaam": "Groningen"
+      }
+    ]
+  },
+  {
+    "Id": "m",
+    "Locations": [
+      {
+        "Id": 3402,
+        "Plaatsnaam": "Maasgouw",
+        "Alias": null,
+        "Gemeentenaam": "Maasgouw",
+        "Provincienaam": "Limburg"
+      },
+      {
+        "Id": 3410,
+        "Plaatsnaam": "Maatsehei",
+        "Alias": null,
+        "Gemeentenaam": "Uden",
+        "Provincienaam": "Noord-Brabant"
+      },
+      {
+        "Id": 3440,
+        "Plaatsnaam": "Mariahoop",
+        "Alias": null,
+        "Gemeentenaam": "Echt-Susteren",
+        "Provincienaam": "Limburg"
+      },
+      {
+        "Id": 3476,
+        "Plaatsnaam": "Meddo",
+        "Alias": null,
+        "Gemeentenaam": "Winterswijk",
+        "Provincienaam": "Gelderland"
+      },
+      {
+        "Id": 3578,
+        "Plaatsnaam": "Mijzerkoog",
+        "Alias": null,
+        "Gemeentenaam": "Koggenland",
+        "Provincienaam": "Noord-Holland"
+      },
+      {
+        "Id": 3589,
+        "Plaatsnaam": "Milschot",
+        "Alias": null,
+        "Gemeentenaam": "Gemert-Bakel",
+        "Provincienaam": "Noord-Brabant"
+      },
+      {
+        "Id": 3590,
+        "Plaatsnaam": "Milt",
+        "Alias": null,
+        "Gemeentenaam": "Oude IJsselstreek",
+        "Provincienaam": "Gelderland"
+      },
+      {
+        "Id": 3616,
+        "Plaatsnaam": "Molenbeek",
+        "Alias": null,
+        "Gemeentenaam": "Arnhem",
+        "Provincienaam": "Gelderland"
+      },
+      {
+        "Id": 3627,
+        "Plaatsnaam": "Molenhoek",
+        "Alias": null,
+        "Gemeentenaam": "\u0027s-Hertogenbosch",
+        "Provincienaam": "Noord-Brabant"
+      },
+      {
+        "Id": 3630,
+        "Plaatsnaam": "Molenpolder",
+        "Alias": null,
+        "Gemeentenaam": "Zaltbommel",
+        "Provincienaam": "Gelderland"
+      },
+      {
+        "Id": 3648,
+        "Plaatsnaam": "Mook en Middelaar",
+        "Alias": null,
+        "Gemeentenaam": "Mook en Middelaar",
+        "Provincienaam": "Limburg"
+      },
+      {
+        "Id": 3666,
+        "Plaatsnaam": "Muggenhool",
+        "Alias": null,
+        "Gemeentenaam": "Bergeijk",
+        "Provincienaam": "Noord-Brabant"
+      },
+      {
+        "Id": 3680,
+        "Plaatsnaam": "Munstergeleen",
+        "Alias": null,
+        "Gemeentenaam": "Sittard-Geleen",
+        "Provincienaam": "Limburg"
+      }
+    ]
+  },
+  {
+    "Id": "n",
+    "Locations": [
+      {
+        "Id": 3708,
+        "Plaatsnaam": "Nederheide",
+        "Alias": null,
+        "Gemeentenaam": "Valkenswaard",
+        "Provincienaam": "Noord-Brabant"
+      },
+      {
+        "Id": 3720,
+        "Plaatsnaam": "Neer",
+        "Alias": null,
+        "Gemeentenaam": "Leudal",
+        "Provincienaam": "Limburg"
+      },
+      {
+        "Id": 3750,
+        "Plaatsnaam": "Niekerk",
+        "Alias": null,
+        "Gemeentenaam": "De Marne",
+        "Provincienaam": "Groningen"
+      },
+      {
+        "Id": 3762,
+        "Plaatsnaam": "Nieuw-Balinge",
+        "Alias": null,
+        "Gemeentenaam": "Midden-Drenthe",
+        "Provincienaam": "Drenthe"
+      },
+      {
+        "Id": 3776,
+        "Plaatsnaam": "Nieuwe Bildtdijk",
+        "Alias": null,
+        "Gemeentenaam": "het Bildt",
+        "Provincienaam": "Friesland"
+      },
+      {
+        "Id": 3835,
+        "Plaatsnaam": "Nieuwleusen",
+        "Alias": null,
+        "Gemeentenaam": "Dalfsen",
+        "Provincienaam": "Overijssel"
+      },
+      {
+        "Id": 3852,
+        "Plaatsnaam": "Nieuw-Vennep",
+        "Alias": null,
+        "Gemeentenaam": "Haarlemmermeer",
+        "Provincienaam": "Noord-Holland"
+      },
+      {
+        "Id": 3858,
+        "Plaatsnaam": "Nieuw-Zwinderen",
+        "Alias": null,
+        "Gemeentenaam": "Coevorden",
+        "Provincienaam": "Drenthe"
+      },
+      {
+        "Id": 3880,
+        "Plaatsnaam": "Nijeveen",
+        "Alias": null,
+        "Gemeentenaam": "Meppel",
+        "Provincienaam": "Drenthe"
+      },
+      {
+        "Id": 3916,
+        "Plaatsnaam": "Noordeinde",
+        "Alias": null,
+        "Gemeentenaam": "Alphen aan den Rijn",
+        "Provincienaam": "Zuid-Holland"
+      },
+      {
+        "Id": 3929,
+        "Plaatsnaam": "Noorderlegmeerpolder (ged.)",
+        "Alias": null,
+        "Gemeentenaam": "Uithoorn",
+        "Provincienaam": "Noord-Holland"
+      },
+      {
+        "Id": 3946,
+        "Plaatsnaam": "Noordscheschut",
+        "Alias": null,
+        "Gemeentenaam": "Hoogeveen",
+        "Provincienaam": "Drenthe"
+      },
+      {
+        "Id": 3951,
+        "Plaatsnaam": "Noordveen",
+        "Alias": null,
+        "Gemeentenaam": "Emmen",
+        "Provincienaam": "Drenthe"
+      },
+      {
+        "Id": 3978,
+        "Plaatsnaam": "Nuland",
+        "Alias": null,
+        "Gemeentenaam": "Maasdonk",
+        "Provincienaam": "Noord-Brabant"
+      }
+    ]
+  },
+  {
+    "Id": "o",
+    "Locations": [
+      {
+        "Id": 1923,
+        "Plaatsnaam": "Op de Groote Heide",
+        "Alias": "Groote Heide, Op de",
+        "Gemeentenaam": "Heeze-Leende",
+        "Provincienaam": "Noord-Brabant"
+      },
+      {
+        "Id": 4032,
+        "Plaatsnaam": "Oldekerk",
+        "Alias": null,
+        "Gemeentenaam": "Grootegast",
+        "Provincienaam": "Groningen"
+      },
+      {
+        "Id": 4081,
+        "Plaatsnaam": "Oost",
+        "Alias": null,
+        "Gemeentenaam": "Eijsden",
+        "Provincienaam": "Limburg"
+      },
+      {
+        "Id": 4087,
+        "Plaatsnaam": "Oostdijk",
+        "Alias": null,
+        "Gemeentenaam": "Goedereede",
+        "Provincienaam": "Zuid-Holland"
+      },
+      {
+        "Id": 4088,
+        "Plaatsnaam": "Oostdijk",
+        "Alias": null,
+        "Gemeentenaam": "Hellevoetsluis",
+        "Provincienaam": "Zuid-Holland"
+      },
+      {
+        "Id": 4160,
+        "Plaatsnaam": "Oost-Knollendam",
+        "Alias": null,
+        "Gemeentenaam": "Wormerland",
+        "Provincienaam": "Noord-Holland"
+      },
+      {
+        "Id": 4170,
+        "Plaatsnaam": "Oostum",
+        "Alias": null,
+        "Gemeentenaam": "Winsum",
+        "Provincienaam": "Groningen"
+      },
+      {
+        "Id": 4187,
+        "Plaatsnaam": "Ophemert",
+        "Alias": null,
+        "Gemeentenaam": "Neerijnen",
+        "Provincienaam": "Gelderland"
+      },
+      {
+        "Id": 4245,
+        "Plaatsnaam": "Oud-Avereest",
+        "Alias": null,
+        "Gemeentenaam": "Hardenberg",
+        "Provincienaam": "Overijssel"
+      },
+      {
+        "Id": 4248,
+        "Plaatsnaam": "Oud-Caberg",
+        "Alias": null,
+        "Gemeentenaam": "Maastricht",
+        "Provincienaam": "Limburg"
+      },
+      {
+        "Id": 4306,
+        "Plaatsnaam": "Oudewaard",
+        "Alias": null,
+        "Gemeentenaam": "Neder-Betuwe",
+        "Provincienaam": "Gelderland"
+      },
+      {
+        "Id": 4352,
+        "Plaatsnaam": "Overburen",
+        "Alias": null,
+        "Gemeentenaam": "Weststellingwerf",
+        "Provincienaam": "Friesland"
+      },
+      {
+        "Id": 4372,
+        "Plaatsnaam": "Overwhere",
+        "Alias": null,
+        "Gemeentenaam": "Purmerend",
+        "Provincienaam": "Noord-Holland"
+      }
+    ]
+  },
+  {
+    "Id": "p",
+    "Locations": [
+      {
+        "Id": 4386,
+        "Plaatsnaam": "Palemig",
+        "Alias": null,
+        "Gemeentenaam": "Heerlen",
+        "Provincienaam": "Limburg"
+      },
+      {
+        "Id": 4403,
+        "Plaatsnaam": "Parrega",
+        "Alias": null,
+        "Gemeentenaam": "W\u00FBnseradiel",
+        "Provincienaam": "Friesland"
+      },
+      {
+        "Id": 4440,
+        "Plaatsnaam": "Philipsdorp",
+        "Alias": null,
+        "Gemeentenaam": "Eindhoven",
+        "Provincienaam": "Noord-Brabant"
+      },
+      {
+        "Id": 4442,
+        "Plaatsnaam": "Philisteinsche Polder",
+        "Alias": null,
+        "Gemeentenaam": "Bergen (NH.)",
+        "Provincienaam": "Noord-Holland"
+      },
+      {
+        "Id": 4480,
+        "Plaatsnaam": "Polder de Nieuwe Ban",
+        "Alias": null,
+        "Gemeentenaam": "Werkendam",
+        "Provincienaam": "Noord-Brabant"
+      },
+      {
+        "Id": 4488,
+        "Plaatsnaam": "Poortugaal",
+        "Alias": null,
+        "Gemeentenaam": "Albrandswaard",
+        "Provincienaam": "Zuid-Holland"
+      },
+      {
+        "Id": 4494,
+        "Plaatsnaam": "Posterenk",
+        "Alias": null,
+        "Gemeentenaam": "Voorst",
+        "Provincienaam": "Gelderland"
+      },
+      {
+        "Id": 4504,
+        "Plaatsnaam": "Prinsland",
+        "Alias": null,
+        "Gemeentenaam": "Steenbergen",
+        "Provincienaam": "Noord-Brabant"
+      }
+    ]
+  },
+  {
+    "Id": "q",
+    "Locations": []
+  },
+  {
+    "Id": "r",
+    "Locations": [
+      {
+        "Id": 4524,
+        "Plaatsnaam": "Raamberg",
+        "Alias": null,
+        "Gemeentenaam": "Zundert",
+        "Provincienaam": "Noord-Brabant"
+      },
+      {
+        "Id": 4530,
+        "Plaatsnaam": "Raath",
+        "Alias": null,
+        "Gemeentenaam": "Onderbanken",
+        "Provincienaam": "Limburg"
+      },
+      {
+        "Id": 4565,
+        "Plaatsnaam": "Reeuwijk",
+        "Alias": null,
+        "Gemeentenaam": "Reeuwijk",
+        "Provincienaam": "Zuid-Holland"
+      },
+      {
+        "Id": 4566,
+        "Plaatsnaam": "Reeuwijksebrug",
+        "Alias": null,
+        "Gemeentenaam": "Reeuwijk",
+        "Provincienaam": "Zuid-Holland"
+      },
+      {
+        "Id": 4567,
+        "Plaatsnaam": "Regge",
+        "Alias": null,
+        "Gemeentenaam": "Wierden",
+        "Provincienaam": "Overijssel"
+      },
+      {
+        "Id": 4590,
+        "Plaatsnaam": "Reusel-De Mierden",
+        "Alias": null,
+        "Gemeentenaam": "Reusel-De Mierden",
+        "Provincienaam": "Noord-Brabant"
+      },
+      {
+        "Id": 4642,
+        "Plaatsnaam": "Rijpelberg",
+        "Alias": null,
+        "Gemeentenaam": "Helmond",
+        "Provincienaam": "Noord-Brabant"
+      },
+      {
+        "Id": 4668,
+        "Plaatsnaam": "Rivierenwijk",
+        "Alias": null,
+        "Gemeentenaam": "Utrecht",
+        "Provincienaam": "Utrecht"
+      },
+      {
+        "Id": 4672,
+        "Plaatsnaam": "Rodenrijs",
+        "Alias": null,
+        "Gemeentenaam": "Lansingerland",
+        "Provincienaam": "Zuid-Holland"
+      },
+      {
+        "Id": 4675,
+        "Plaatsnaam": "Roderwolde",
+        "Alias": null,
+        "Gemeentenaam": "Noordenveld",
+        "Provincienaam": "Drenthe"
+      },
+      {
+        "Id": 4717,
+        "Plaatsnaam": "Roosteren",
+        "Alias": null,
+        "Gemeentenaam": "Echt-Susteren",
+        "Provincienaam": "Limburg"
+      },
+      {
+        "Id": 4750,
+        "Plaatsnaam": "Ruigoord",
+        "Alias": null,
+        "Gemeentenaam": "Haarlemmerliede en Spaarnwoude",
+        "Provincienaam": "Noord-Holland"
+      },
+      {
+        "Id": 4758,
+        "Plaatsnaam": "Rukven",
+        "Alias": null,
+        "Gemeentenaam": "Bernheze",
+        "Provincienaam": "Noord-Brabant"
+      },
+      {
+        "Id": 4767,
+        "Plaatsnaam": "Rutten",
+        "Alias": null,
+        "Gemeentenaam": "Noordoostpolder",
+        "Provincienaam": "Flevoland"
+      }
+    ]
+  },
+  {
+    "Id": "s",
+    "Locations": [
+      {
+        "Id": 4806,
+        "Plaatsnaam": "Schans",
+        "Alias": null,
+        "Gemeentenaam": "Halderberge",
+        "Provincienaam": "Noord-Brabant"
+      },
+      {
+        "Id": 4820,
+        "Plaatsnaam": "Scharsterbrug",
+        "Alias": null,
+        "Gemeentenaam": "Skarsterl\u00E2n",
+        "Provincienaam": "Friesland"
+      },
+      {
+        "Id": 4840,
+        "Plaatsnaam": "Scherpenering",
+        "Alias": null,
+        "Gemeentenaam": "Veldhoven",
+        "Provincienaam": "Noord-Brabant"
+      },
+      {
+        "Id": 4868,
+        "Plaatsnaam": "Schipborg",
+        "Alias": null,
+        "Gemeentenaam": "Aa en Hunze",
+        "Provincienaam": "Drenthe"
+      },
+      {
+        "Id": 4894,
+        "Plaatsnaam": "Schore",
+        "Alias": null,
+        "Gemeentenaam": "Kapelle",
+        "Provincienaam": "Zeeland"
+      },
+      {
+        "Id": 4898,
+        "Plaatsnaam": "Schotsheuvel",
+        "Alias": null,
+        "Gemeentenaam": "Maasdonk",
+        "Provincienaam": "Noord-Brabant"
+      },
+      {
+        "Id": 4928,
+        "Plaatsnaam": "Sempke",
+        "Alias": null,
+        "Gemeentenaam": "Heusden",
+        "Provincienaam": "Noord-Brabant"
+      },
+      {
+        "Id": 4982,
+        "Plaatsnaam": "Sint Maartensdijk",
+        "Alias": null,
+        "Gemeentenaam": "Tholen",
+        "Provincienaam": "Zeeland"
+      },
+      {
+        "Id": 5000,
+        "Plaatsnaam": "Slabroek",
+        "Alias": null,
+        "Gemeentenaam": "Uden",
+        "Provincienaam": "Noord-Brabant"
+      },
+      {
+        "Id": 5006,
+        "Plaatsnaam": "Sleeuwijk",
+        "Alias": null,
+        "Gemeentenaam": "Werkendam",
+        "Provincienaam": "Noord-Brabant"
+      },
+      {
+        "Id": 5106,
+        "Plaatsnaam": "Sprang-Capelle",
+        "Alias": null,
+        "Gemeentenaam": "Waalwijk",
+        "Provincienaam": "Noord-Brabant"
+      },
+      {
+        "Id": 5166,
+        "Plaatsnaam": "Steinenburg",
+        "Alias": null,
+        "Gemeentenaam": "De Bilt",
+        "Provincienaam": "Utrecht"
+      },
+      {
+        "Id": 5180,
+        "Plaatsnaam": "Stobben",
+        "Alias": null,
+        "Gemeentenaam": "Vlagtwedde",
+        "Provincienaam": "Groningen"
+      },
+      {
+        "Id": 5184,
+        "Plaatsnaam": "Stokkelen",
+        "Alias": null,
+        "Gemeentenaam": "Eersel",
+        "Provincienaam": "Noord-Brabant"
+      },
+      {
+        "Id": 5221,
+        "Plaatsnaam": "Stroe",
+        "Alias": null,
+        "Gemeentenaam": "Barneveld",
+        "Provincienaam": "Gelderland"
+      },
+      {
+        "Id": 5240,
+        "Plaatsnaam": "Swartbroek",
+        "Alias": null,
+        "Gemeentenaam": "Weert",
+        "Provincienaam": "Limburg"
+      }
+    ]
+  },
+  {
+    "Id": "t",
+    "Locations": [
+      {
+        "Id": 693,
+        "Plaatsnaam": "Ter Borg",
+        "Alias": "Borg, Ter",
+        "Gemeentenaam": "Vlagtwedde",
+        "Provincienaam": "Groningen"
+      },
+      {
+        "Id": 5252,
+        "Plaatsnaam": "Teeffelen",
+        "Alias": null,
+        "Gemeentenaam": "Lith",
+        "Provincienaam": "Noord-Brabant"
+      },
+      {
+        "Id": 5275,
+        "Plaatsnaam": "Termunten",
+        "Alias": null,
+        "Gemeentenaam": "Delfzijl",
+        "Provincienaam": "Groningen"
+      },
+      {
+        "Id": 5297,
+        "Plaatsnaam": "Teuge",
+        "Alias": null,
+        "Gemeentenaam": "Voorst",
+        "Provincienaam": "Gelderland"
+      },
+      {
+        "Id": 5304,
+        "Plaatsnaam": "Tholen",
+        "Alias": null,
+        "Gemeentenaam": "Tholen",
+        "Provincienaam": "Zeeland"
+      },
+      {
+        "Id": 5319,
+        "Plaatsnaam": "Tilburg",
+        "Alias": null,
+        "Gemeentenaam": "Tilburg",
+        "Provincienaam": "Noord-Brabant"
+      },
+      {
+        "Id": 5320,
+        "Plaatsnaam": "Tilligte",
+        "Alias": null,
+        "Gemeentenaam": "Dinkelland",
+        "Provincienaam": "Overijssel"
+      },
+      {
+        "Id": 5338,
+        "Plaatsnaam": "Toldijk",
+        "Alias": null,
+        "Gemeentenaam": "Bronckhorst",
+        "Provincienaam": "Gelderland"
+      },
+      {
+        "Id": 5341,
+        "Plaatsnaam": "Tolke",
+        "Alias": null,
+        "Gemeentenaam": "Schagen",
+        "Provincienaam": "Noord-Holland"
+      },
+      {
+        "Id": 5349,
+        "Plaatsnaam": "Tongerlo",
+        "Alias": null,
+        "Gemeentenaam": "Peel en Maas",
+        "Provincienaam": "Limburg"
+      },
+      {
+        "Id": 5353,
+        "Plaatsnaam": "Tonsel (ged.)",
+        "Alias": null,
+        "Gemeentenaam": "Harderwijk",
+        "Provincienaam": "Gelderland"
+      },
+      {
+        "Id": 5376,
+        "Plaatsnaam": "Tuindorp",
+        "Alias": null,
+        "Gemeentenaam": "Utrecht",
+        "Provincienaam": "Utrecht"
+      }
+    ]
+  },
+  {
+    "Id": "u",
+    "Locations": [
+      {
+        "Id": 5420,
+        "Plaatsnaam": "Ubbergen",
+        "Alias": null,
+        "Gemeentenaam": "Ubbergen",
+        "Provincienaam": "Gelderland"
+      },
+      {
+        "Id": 5440,
+        "Plaatsnaam": "Uitwierde",
+        "Alias": null,
+        "Gemeentenaam": "Delfzijl",
+        "Provincienaam": "Groningen"
+      }
+    ]
+  },
+  {
+    "Id": "v",
+    "Locations": [
+      {
+        "Id": 5465,
+        "Plaatsnaam": "Vaartwijk",
+        "Alias": null,
+        "Gemeentenaam": "Terneuzen",
+        "Provincienaam": "Zeeland"
+      },
+      {
+        "Id": 5510,
+        "Plaatsnaam": "Veenhuizen",
+        "Alias": null,
+        "Gemeentenaam": "Noordenveld",
+        "Provincienaam": "Drenthe"
+      },
+      {
+        "Id": 5562,
+        "Plaatsnaam": "Veneburen",
+        "Alias": null,
+        "Gemeentenaam": "Ooststellingwerf",
+        "Provincienaam": "Friesland"
+      },
+      {
+        "Id": 5626,
+        "Plaatsnaam": "Vledder",
+        "Alias": null,
+        "Gemeentenaam": "Westerveld",
+        "Provincienaam": "Drenthe"
+      },
+      {
+        "Id": 5629,
+        "Plaatsnaam": "Vledderveen",
+        "Alias": null,
+        "Gemeentenaam": "Westerveld",
+        "Provincienaam": "Drenthe"
+      },
+      {
+        "Id": 5648,
+        "Plaatsnaam": "Voederheil",
+        "Alias": null,
+        "Gemeentenaam": "Landerd",
+        "Provincienaam": "Noord-Brabant"
+      },
+      {
+        "Id": 5656,
+        "Plaatsnaam": "Volkel",
+        "Alias": null,
+        "Gemeentenaam": "Uden",
+        "Provincienaam": "Noord-Brabant"
+      },
+      {
+        "Id": 5676,
+        "Plaatsnaam": "Voorste Heikant",
+        "Alias": null,
+        "Gemeentenaam": "Reusel-De Mierden",
+        "Provincienaam": "Noord-Brabant"
+      },
+      {
+        "Id": 5696,
+        "Plaatsnaam": "Voskuil",
+        "Alias": null,
+        "Gemeentenaam": "Oldebroek",
+        "Provincienaam": "Gelderland"
+      }
+    ]
+  },
+  {
+    "Id": "w",
+    "Locations": [
+      {
+        "Id": 5796,
+        "Plaatsnaam": "Warns",
+        "Alias": null,
+        "Gemeentenaam": "Nijefurd",
+        "Provincienaam": "Friesland"
+      },
+      {
+        "Id": 5808,
+        "Plaatsnaam": "Waterhuizen",
+        "Alias": null,
+        "Gemeentenaam": "Hoogezand-Sappemeer",
+        "Provincienaam": "Groningen"
+      },
+      {
+        "Id": 5868,
+        "Plaatsnaam": "Wemeldinge",
+        "Alias": null,
+        "Gemeentenaam": "Kapelle",
+        "Provincienaam": "Zeeland"
+      },
+      {
+        "Id": 5880,
+        "Plaatsnaam": "Wessem",
+        "Alias": null,
+        "Gemeentenaam": "Maasgouw",
+        "Provincienaam": "Limburg"
+      },
+      {
+        "Id": 5896,
+        "Plaatsnaam": "Westeind",
+        "Alias": null,
+        "Gemeentenaam": "Menterwolde",
+        "Provincienaam": "Groningen"
+      },
+      {
+        "Id": 5915,
+        "Plaatsnaam": "Westerdijkshorn",
+        "Alias": null,
+        "Gemeentenaam": "Bedum",
+        "Provincienaam": "Groningen"
+      },
+      {
+        "Id": 5974,
+        "Plaatsnaam": "Wezepsche Heide",
+        "Alias": null,
+        "Gemeentenaam": "Oldebroek",
+        "Provincienaam": "Gelderland"
+      },
+      {
+        "Id": 6024,
+        "Plaatsnaam": "Wijzend",
+        "Alias": null,
+        "Gemeentenaam": "Medemblik",
+        "Provincienaam": "Noord-Holland"
+      },
+      {
+        "Id": 6052,
+        "Plaatsnaam": "Wilsveen",
+        "Alias": null,
+        "Gemeentenaam": "Leidschendam-Voorburg",
+        "Provincienaam": "Zuid-Holland"
+      },
+      {
+        "Id": 6068,
+        "Plaatsnaam": "Wintelre",
+        "Alias": null,
+        "Gemeentenaam": "Eersel",
+        "Provincienaam": "Noord-Brabant"
+      },
+      {
+        "Id": 6116,
+        "Plaatsnaam": "Wollinghuizen",
+        "Alias": null,
+        "Gemeentenaam": "Vlagtwedde",
+        "Provincienaam": "Groningen"
+      },
+      {
+        "Id": 6129,
+        "Plaatsnaam": "Woord",
+        "Alias": null,
+        "Gemeentenaam": "Wijchen",
+        "Provincienaam": "Gelderland"
+      }
+    ]
+  },
+  {
+    "Id": "x",
+    "Locations": []
+  },
+  {
+    "Id": "y",
+    "Locations": []
+  },
+  {
+    "Id": "z",
+    "Locations": [
+      {
+        "Id": 6186,
+        "Plaatsnaam": "Zandberg",
+        "Alias": null,
+        "Gemeentenaam": "Sluis",
+        "Provincienaam": "Zeeland"
+      },
+      {
+        "Id": 6188,
+        "Plaatsnaam": "Zanddijk",
+        "Alias": null,
+        "Gemeentenaam": "Rozenburg",
+        "Provincienaam": "Zuid-Holland"
+      },
+      {
+        "Id": 6201,
+        "Plaatsnaam": "Zandoerle",
+        "Alias": null,
+        "Gemeentenaam": "Veldhoven",
+        "Provincienaam": "Noord-Brabant"
+      },
+      {
+        "Id": 6228,
+        "Plaatsnaam": "Zeist",
+        "Alias": null,
+        "Gemeentenaam": "Zeist",
+        "Provincienaam": "Utrecht"
+      },
+      {
+        "Id": 6233,
+        "Plaatsnaam": "Zelhem",
+        "Alias": null,
+        "Gemeentenaam": "Bronckhorst",
+        "Provincienaam": "Gelderland"
+      },
+      {
+        "Id": 6253,
+        "Plaatsnaam": "Zevenhuizen",
+        "Alias": null,
+        "Gemeentenaam": "Heeze-Leende",
+        "Provincienaam": "Noord-Brabant"
+      },
+      {
+        "Id": 6280,
+        "Plaatsnaam": "Zomerdijk",
+        "Alias": null,
+        "Gemeentenaam": "Medemblik",
+        "Provincienaam": "Noord-Holland"
+      },
+      {
+        "Id": 6327,
+        "Plaatsnaam": "Zuid-Scharwoude",
+        "Alias": null,
+        "Gemeentenaam": "Langedijk",
+        "Provincienaam": "Noord-Holland"
+      },
+      {
+        "Id": 6355,
+        "Plaatsnaam": "Zwaanenheike",
+        "Alias": null,
+        "Gemeentenaam": "Horst aan de Maas",
+        "Provincienaam": "Limburg"
+      }
+    ]
+  },
+  {
+    "Id": "\u0027",
+    "Locations": [
+      {
+        "Id": 1869,
+        "Plaatsnaam": "\u0027s- Gravenmoer",
+        "Alias": "Gravenmoer, \u0027s-",
+        "Gemeentenaam": "Dongen",
+        "Provincienaam": "Noord-Brabant"
+      },
+      {
+        "Id": 2380,
+        "Plaatsnaam": "\u0027t Hof",
+        "Alias": "Hof, \u0027t",
+        "Gemeentenaam": "Laarbeek",
+        "Provincienaam": "Noord-Brabant"
+      },
+      {
+        "Id": 3613,
+        "Plaatsnaam": "\u0027s- Molenaarsbuurt",
+        "Alias": "Molenaarsbuurt, \u0027s-",
+        "Gemeentenaam": "Alphen aan den Rijn",
+        "Provincienaam": "Zuid-Holland"
+      }
+    ]
+  }
+]
