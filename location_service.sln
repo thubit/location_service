@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocationService", "LocationService\LocationService.csproj", "{FCB2969D-4BF1-4CA2-8343-69773B0884AA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocationServiceTest", "LocationServiceTest\LocationServiceTest.csproj", "{9AF0DD74-A5FC-4B95-B5EF-F8CA2886545A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,17 @@ Global
 		{FCB2969D-4BF1-4CA2-8343-69773B0884AA}.Release|x64.Build.0 = Release|Any CPU
 		{FCB2969D-4BF1-4CA2-8343-69773B0884AA}.Release|x86.ActiveCfg = Release|Any CPU
 		{FCB2969D-4BF1-4CA2-8343-69773B0884AA}.Release|x86.Build.0 = Release|Any CPU
+		{9AF0DD74-A5FC-4B95-B5EF-F8CA2886545A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AF0DD74-A5FC-4B95-B5EF-F8CA2886545A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AF0DD74-A5FC-4B95-B5EF-F8CA2886545A}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{9AF0DD74-A5FC-4B95-B5EF-F8CA2886545A}.Debug|x64.Build.0 = Debug|Any CPU
+		{9AF0DD74-A5FC-4B95-B5EF-F8CA2886545A}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{9AF0DD74-A5FC-4B95-B5EF-F8CA2886545A}.Debug|x86.Build.0 = Debug|Any CPU
+		{9AF0DD74-A5FC-4B95-B5EF-F8CA2886545A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AF0DD74-A5FC-4B95-B5EF-F8CA2886545A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AF0DD74-A5FC-4B95-B5EF-F8CA2886545A}.Release|x64.ActiveCfg = Release|Any CPU
+		{9AF0DD74-A5FC-4B95-B5EF-F8CA2886545A}.Release|x64.Build.0 = Release|Any CPU
+		{9AF0DD74-A5FC-4B95-B5EF-F8CA2886545A}.Release|x86.ActiveCfg = Release|Any CPU
+		{9AF0DD74-A5FC-4B95-B5EF-F8CA2886545A}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
